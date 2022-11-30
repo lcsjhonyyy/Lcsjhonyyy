@@ -21,6 +21,7 @@
     <a href="https://www.linkedin.com/in/lucas-jhony-504bb5249/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href = "mailto:lcsjhonyyy@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
       <a href="https://instagram.com/lcsjhonyyy" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href ="https://www.twitter.com//lcsjhonyyy/" target"_blank":img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white taret"_blank"></a>
     
 ![Snake animation](https://github.com/lcsjhonyyy/lcsjhonyyy/blob/output/github-contribution-grid-snake.svg)
  
