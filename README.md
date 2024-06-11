@@ -11,7 +11,7 @@
 <h2 align="center">⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
 <br>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=github,git,java,spring,dart,flutter,javascript,mysql,vscode,cpp,intellij,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=github,git,java,spring,dart,flutter,javascript,mysql,cpp,vscode,androidstudio" />
 </div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
